@@ -31,4 +31,4 @@ jobs:
       run: |
         python jd2.py
       env:
-        JD_COOKIE: ${{ secrets.JD_COOKIE }}
+        XIAO_K: ${{ secrets.XIAO_K }}
